@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ysano, Web Developer for a longtime, recently some have changed to Data Engineer.
-- 🔭 I’m currently working on PHP/Python/Javascript on AWS, GCP, k8s and on-premises.
+- 🔭 I’m currently working on PHP/Python/Javascript on AWS, GCP, Docker, k8s and on-premises.
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Data Analysis and Go.
 
 [More about me](https://ysano.ysnet.org/about)
